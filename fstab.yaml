@@ -1,2 +1,4 @@
-mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1yyk0GQ2RGmvCzGOf4LTF1uk4sTA56plH
+  mountpoints:
+  /:
+    url: https://content.da.live/apathaniamcf/storefront/
+    type: markup
